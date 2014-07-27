@@ -1,0 +1,203 @@
+SDL Compile-time version:1.2.15
+SDL Runtime version:1.2.14
+Video subsystem initialised
+**************Current video mode*******************
+Checking requested screen mode: 640 x 480 at 24 BPP
+Video mode set to 640 x 480 at 24 Bpp with flags SDL_SWSURFACE 
+Trying to load ./images/TitleScreen.png
+Image ./images/TitleScreen.png loaded successfully
+Trying to load ./images/BkGround00.png
+Image ./images/BkGround00.png loaded successfully
+Trying to load ./images/Arena00.png
+Image ./images/Arena00.png loaded successfully
+Trying to load ./images/GameBall.png
+Image ./images/GameBall.png loaded successfully
+Trying to load ./images/Batt.png
+Image ./images/Batt.png loaded successfully
+Trying to load ./images/BBlockYellow.png
+Image ./images/BBlockYellow.png loaded successfully
+Trying to load ./images/BBlockGreen.png
+Image ./images/BBlockGreen.png loaded successfully
+Trying to load ./images/BBlockBlue.png
+Image ./images/BBlockBlue.png loaded successfully
+Sucessfully opened level data file
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
+Collision
