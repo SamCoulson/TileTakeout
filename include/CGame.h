@@ -1,12 +1,10 @@
 #ifndef INC_GAME_H
 #define INC_GAME_H
 
-#include "IScreen.h"
-//#include "CScreenManager.h"
-#include "CSprite.h"
-#include "CGrid.h"
-#include "CCollision.h"
-//#include "CTimer.h"
+#include "../../gamelibrary/include/IScreen.h"
+#include "../../gamelibrary/include/CGrid.h"
+#include "../../gamelibrary/include/CCollision.h"
+#include "CGlobalGameData.h"
 #include <sstream>
 #include <fstream>
 #include <vector>

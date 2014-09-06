@@ -1,12 +1,8 @@
 #ifndef INC_MAIN_H
 #define INC_MAIN_H
 
-#include "CSDLGraphics.h"
-//#include "CSprite.h"
-// #include "CSDL_Input.h"
-//#include "CGrid.h"
+#include "../../gamelibrary/include/CSDLGraphics.h"
 #include "CGame.h"
-//#include "CScreenManager.h"
 #include "CIntroScrn.h"
 //#include "CHighScoreScrn.h"
 //#include "CScoreEntry.h"

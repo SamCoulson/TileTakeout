@@ -1,8 +1,6 @@
 #ifndef H_HIGHSCORESCRN_INC
 #define H_HIGHSCORESCRN_INC
 
-#include "CScreenBase.h"
-#include "CScreenManager.h"
 #include "GlobalGameData.h"
 
 class CHighScoreScrn : public CScreenBase

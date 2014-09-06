@@ -1,8 +1,6 @@
 #ifndef INC_SCORE_H
 #define INC_SCORE_H
 
-#include "CScreenBase.h"
-#include "CScreenManager.h"
 #include "GlobalGameData.h"
 
 class CScoreEntry : public CScreenBase

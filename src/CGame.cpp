@@ -24,7 +24,7 @@
 int g_topscore;
 
 CGame::CGame( CSDLGraphics& graphics, CGlobalGameData& globalGameData )
-	: IScreen( graphics, globalGameData ){
+	: IScreen( graphics ){
 
 	this->graphics = &graphics;
 }

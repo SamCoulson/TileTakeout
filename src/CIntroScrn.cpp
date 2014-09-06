@@ -1,7 +1,7 @@
 #include "../include/CIntroScrn.h"
 
 CIntroScrn::CIntroScrn( CSDLGraphics& graphics, CGlobalGameData& globalGameData )
-	: IScreen( graphics, globalGameData ){
+	: IScreen( graphics ){
 
 	this->graphics = &graphics;
 	titleScreen = NULL;
