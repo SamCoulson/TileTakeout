@@ -15,6 +15,9 @@
 *.a
 *.lib
 
+# Editor files
+*.swp
+
 # Executables
 *.exe
 *.out
