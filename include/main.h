@@ -1,7 +1,7 @@
 #ifndef INC_MAIN_H
 #define INC_MAIN_H
 
-#include "../../gamelibrary/include/CSDLGraphics.h"
+#include "../GameLibrary/include/CSDLGraphics.h"
 #include "CGame.h"
 #include "CIntroScrn.h"
 //#include "CHighScoreScrn.h"

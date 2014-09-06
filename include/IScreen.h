@@ -1,7 +1,7 @@
 #ifndef H_CSCREENBASE_INC
 #define H_CSCREENBASE_INC
 
-#include "../../gamelibrary/include/CSDLGraphics.h"
+#include "../GameLibrary/include/CSDLGraphics.h"
 #include "CGlobalGameData.h"
 
 class IScreen{

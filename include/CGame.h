@@ -1,9 +1,9 @@
 #ifndef INC_GAME_H
 #define INC_GAME_H
 
-#include "../../gamelibrary/include/IScreen.h"
-#include "../../gamelibrary/include/CGrid.h"
-#include "../../gamelibrary/include/CCollision.h"
+#include "../GameLibrary/include/IScreen.h"
+#include "../GameLibrary/include/CGrid.h"
+#include "../GameLibrary/include/CCollision.h"
 #include "CGlobalGameData.h"
 #include <sstream>
 #include <fstream>
